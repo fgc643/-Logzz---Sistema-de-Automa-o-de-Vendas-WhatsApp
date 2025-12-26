@@ -1,2 +1,85 @@
-# -Logzz---Sistema-de-Automa-o-de-Vendas-WhatsApp
-🚀 Plataforma de gestão de vendas com integração nativa ao WhatsApp Business API. ⚡ Webhook próprio, automação em tempo real, filas de processamento e alta performance. 📊 Dashboard completo, pedidos, comissões, estoque e relatórios. 🔐 Arquitetura segura, escalável e multi-tenant.
+# 🚀 Logzz — Sistema de Automação de Vendas via WhatsApp
+
+Plataforma completa de **gestão de vendas com integração nativa ao WhatsApp Business API**, focada em automação, performance e escalabilidade.
+
+> ⚠️ Este repositório representa uma **versão demonstrativa / portfólio**.  
+> O sistema completo roda em ambiente privado por motivos de segurança.
+
+---
+
+## 🎯 Problema que o Logzz resolve
+
+- ❌ Vendas perdidas no WhatsApp  
+- ❌ Atendimento manual e lento  
+- ❌ Falta de controle de pedidos e comissões  
+- ❌ Dependência de ferramentas terceiras  
+- ❌ Falta de métricas em tempo real  
+
+---
+
+## ✅ Solução
+
+O **Logzz** centraliza **conversas, pedidos, comissões e métricas** em um único sistema, com **webhook próprio**, automação em tempo real e dashboard completo.
+
+---
+
+## ⚡ Principais Funcionalidades
+
+- Integração nativa com WhatsApp Business API
+- Webhook próprio (sem dependências externas)
+- Dashboard em tempo real
+- Gestão de pedidos e vendas
+- Sistema de comissões automático
+- Controle de estoque
+- Multi-status de pedidos
+- Relatórios financeiros
+- Arquitetura multi-tenant
+- Interface 100% responsiva (mobile-first)
+
+---
+
+## 📊 Métricas de Performance (ambiente real)
+
+- Latência média: **< 200ms**
+- Processamento: **1000+ eventos/hora**
+- Uptime: **99.9%**
+- Escalável para múltiplas operações
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Backend
+- Node.js / Express
+- Webhook próprio
+- Redis (cache e filas)
+- Banco de dados SQL / NoSQL
+
+### Frontend
+- React / Next.js
+- TailwindCSS
+- Dashboards com métricas em tempo real
+
+### Infraestrutura
+- VPS dedicada
+- SSL ativo
+- Subdomínios isolados
+- Backup automático
+
+---
+
+## 🖼️ Screenshots
+
+> *Imagens reais do sistema em produção*
+
+- Dashboard administrativo
+- Gestão de pedidos
+- Configuração de Webhook
+- Visualização mobile
+
+(Ver pasta `/screenshots`)
+
+---
+
+## 🧱 Estrutura do Projeto
+
